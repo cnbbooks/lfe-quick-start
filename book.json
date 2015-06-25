@@ -1,6 +1,7 @@
 {
     "title": "LFE Quick Start",
     "description": "An Introduction to LFE Going Ludicrous Speed",
+    "gitbook": "2.x.x",
     "plugins": ["ga"],
     "pluginsConfig": {
         "fontSettings": {
