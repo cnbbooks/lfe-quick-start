@@ -5,7 +5,7 @@
 
 In this LFE quick start, we will cover the following:
 
-* Getting the LFE source code
+* Getting LFE
 * Running code in the LFE REPL
 * Creating an LFE module
 * Additional resources
